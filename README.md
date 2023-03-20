@@ -1,2 +1,1 @@
-# PreparacionCurso_Henry
-Intento independiente de hacer un commit desde la nube
+El intento está funcionando, si esto se puede ver en GITHUB entonces hixce un buen trabajo
